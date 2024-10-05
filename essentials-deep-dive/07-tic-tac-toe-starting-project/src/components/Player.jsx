@@ -30,7 +30,7 @@ function Player({initialName,symbol,isActive,onChangeName}){
                {/* alternate way */}
                {/*{isEditing ? <input type='text'/> : <span className="player-name">{name}</span>}*/}
 
-                <span className={"player-symbol"}>{symbol}</span>
+                <span className="player-symbol">{symbol}</span>
             </span>
             <button onClick={handleClick}>{btnCaption}</button>
             {/*    alternate way */}
