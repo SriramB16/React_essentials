@@ -43,7 +43,6 @@ function App() {
        })
    }
 
-
    let content;
 
    if(projectState.selectedProjectId === null){
