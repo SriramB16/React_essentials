@@ -29,7 +29,7 @@ export default function NewProject({onAdd, onCancel }) {
                     <li><button onClick={handleSave} className="px-6 py-2 rounded-md bg-stone-800 text-stone-50 hover:bg-stone-950">Save</button></li>
                 </menu>
                 <div>
-                    <Input ref={title} label='Title'/>
+                    <Input type='text' ref={title} label='Title'/>
                     <Input ref={description} label='Description' textArea/>
                     <Input type='date' ref={dueDate} label='Due Date'/>
                 </div>
