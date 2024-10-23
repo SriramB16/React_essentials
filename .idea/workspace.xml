@@ -4,7 +4,114 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7b0f35e-f530-4496-bdd8-db9d10ccca04" name="Changes" comment="" />
+    <list default="true" id="c7b0f35e-f530-4496-bdd8-db9d10ccca04" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/public/investment-calculator-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/public/investment-calculator-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/src/assets/investment-calculator-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/src/assets/investment-calculator-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/src/components/Results.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/src/components/Results.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/src/components/UserInput.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/src/components/UserInput.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/src/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/src/util/investment.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/src/util/investment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/01-starting-project/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEBUGGING/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/src/assets/components.png" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/src/assets/components.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/src/assets/config.png" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/src/assets/config.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/src/assets/jsx-ui.png" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/src/assets/jsx-ui.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/src/assets/react-core-concepts.png" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/src/assets/react-core-concepts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/src/assets/state-mgmt.png" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/src/assets/state-mgmt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/src/components/CoreConcepts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/src/components/CoreConcepts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/src/components/TabButtons.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/src/components/TabButtons.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/src/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/src/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-Essentials/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-React-Essentials/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/assets/components.png" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/assets/components.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/assets/config.png" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/assets/config.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/assets/jsx-ui.png" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/assets/jsx-ui.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/assets/react-core-concepts.png" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/assets/react-core-concepts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/assets/state-mgmt.png" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/assets/state-mgmt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/components/CoreConcept.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/components/CoreConcept.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/components/CoreConcepts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/components/CoreConcepts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/components/Examples.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/components/Examples.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/components/Header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/components/Section.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/components/Section.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/components/TabButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/components/TabButton.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/components/Tabs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/components/Tabs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/01-project-final/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/public/bg-pattern-dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/public/bg-pattern-dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/public/bg-pattern.png" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/public/bg-pattern.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/public/game-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/public/game-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/src/assets/react.svg" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/src/assets/react.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/src/components/GameBoard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/src/components/GameBoard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/src/components/GameOver.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/src/components/GameOver.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/src/components/Log.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/src/components/Log.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/src/components/Player.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/src/components/Player.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/src/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/src/winning-combinations.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/07-tic-tac-toe-starting-project/src/winning-combinations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essentials-deep-dive/07-tic-tac-toe-starting-project/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/public/investment-calculator-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/public/investment-calculator-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/src/assets/investment-calculator-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/src/assets/investment-calculator-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/src/components/Results.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/src/components/Results.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/src/components/UserInput.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/src/components/UserInput.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/src/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/src/util/investment.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-practice_project/01-starting-project/src/util/investment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_project/01-starting-project/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/public/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/public/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/public/vite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/public/vite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/src/components/AuthInputs.css" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/src/components/AuthInputs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/src/components/AuthInputs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/src/components/AuthInputs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/src/components/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/src/components/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/src/components/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/src/components/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/src/components/input.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/src/components/input.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/src/index-ol.css" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/src/index-ol.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/01-starting-project/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/01-starting-project/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-DEBUGGING/01-starting-project/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styling_react_components/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/04-styling_react_components/package-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +151,8 @@
   "keyToString": {
     "Node.js.GameBoard.jsx.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/SRI RAM/Desktop/react practice",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Learn React",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -108,7 +216,8 @@
       <workItem from="1728405298125" duration="1250000" />
       <workItem from="1728466858361" duration="35702000" />
       <workItem from="1729055360808" duration="1397000" />
-      <workItem from="1729343024912" duration="31558000" />
+      <workItem from="1729343024912" duration="32255000" />
+      <workItem from="1729677450888" duration="850000" />
     </task>
     <servers />
   </component>
