@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7b0f35e-f530-4496-bdd8-db9d10ccca04" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/components/Cart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/components/Cart.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/components/CartModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/components/CartModal.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/store/shopping-cart-context.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/store/shopping-cart-context.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +115,7 @@
       <workItem from="1729055360808" duration="1397000" />
       <workItem from="1729343024912" duration="32255000" />
       <workItem from="1729677450888" duration="15419000" />
-      <workItem from="1729777107027" duration="1640000" />
+      <workItem from="1729777107027" duration="2697000" />
     </task>
     <servers />
   </component>
