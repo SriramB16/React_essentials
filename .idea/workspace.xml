@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c7b0f35e-f530-4496-bdd8-db9d10ccca04" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/components/Cart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/components/Cart.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/components/Product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/components/Product.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/components/Shop.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/components/Shop.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/components/Header.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,26 +44,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Node.js.GameBoard.jsx.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Learn React",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.React Buddy Preview.executor": "Run",
-    "prettierjs.PrettierConfiguration.Package": "E:\\webstorm\\08-Advanced-State-Management-with-Context-useReducer\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "settings.javascript.prettier",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.GameBoard.jsx.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Learn React&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.React Buddy Preview.executor&quot;: &quot;Run&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;E:\\webstorm\\08-Advanced-State-Management-with-Context-useReducer\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\SRIRAM~1\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="9106f7f2-6949-46da-b2d5-88036fab687e" reportId="webstorm/qodana/2024-10-14" />
@@ -118,7 +115,7 @@
       <workItem from="1728466858361" duration="35702000" />
       <workItem from="1729055360808" duration="1397000" />
       <workItem from="1729343024912" duration="32255000" />
-      <workItem from="1729677450888" duration="9833000" />
+      <workItem from="1729677450888" duration="14924000" />
     </task>
     <servers />
   </component>
