@@ -7,7 +7,6 @@ export const CartContext = createContext({
   updateItemQuantity: () => {},
 });
 
-
 export default function CartContextProvider({ children }) {
   const [shoppingCart, setShoppingCart] = useState({
     items: [],
