@@ -1,5 +1,5 @@
-import {createContext, useState} from "react";
-import {DUMMY_PRODUCTS} from "../dummy-products.js";
+import { createContext, useState, useReducer } from "react";
+import { DUMMY_PRODUCTS } from "../dummy-products.js";
 
 export const CartContext = createContext({
   items: [],
@@ -7,7 +7,14 @@ export const CartContext = createContext({
   updateItemQuantity: () => {},
 });
 
+function shoppingCartReducer(state, action) {
+  return state;
+}
+
 export default function CartContextProvider({ children }) {
+  const [ shoppingCartState, shoppingCartDispatch] = useReducer(shoppingCartReducer, {
+    items: [],
+  });
   const [shoppingCart, setShoppingCart] = useState({
     items: [],
   });
@@ -17,7 +24,7 @@ export default function CartContextProvider({ children }) {
       const updatedItems = [...prevShoppingCart.items];
 
       const existingCartItemIndex = updatedItems.findIndex(
-          (cartItem) => cartItem.id === id,
+        (cartItem) => cartItem.id === id,
       );
       const existingCartItem = updatedItems[existingCartItemIndex];
 
@@ -47,7 +54,7 @@ export default function CartContextProvider({ children }) {
     setShoppingCart((prevShoppingCart) => {
       const updatedItems = [...prevShoppingCart.items];
       const updatedItemIndex = updatedItems.findIndex(
-          (item) => item.id === productId,
+        (item) => item.id === productId,
       );
 
       const updatedItem = {
@@ -69,14 +76,12 @@ export default function CartContextProvider({ children }) {
   }
 
   const ctxValue = {
-    items: shoppingCart.items,
+    items: shoppingCartState.items,
     addItemToCart: handleAddItemToCart,
     updateItemQuantity: handleUpdateCartItemQuantity,
   };
 
   return (
-      <CartContext.Provider value={ctxValue}>
-        {children}
-      </CartContext.Provider>
-  )
+    <CartContext.Provider value={ctxValue}>{children}</CartContext.Provider>
+  );
 }
