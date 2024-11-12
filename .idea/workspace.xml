@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c7b0f35e-f530-4496-bdd8-db9d10ccca04" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/store/shopping-cart-context.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/08-Advanced-State-Management-with-Context-useReducer/src/store/shopping-cart-context.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/components/CoreConcepts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/components/CoreConcepts.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,9 @@
       <workItem from="1729343024912" duration="32255000" />
       <workItem from="1729677450888" duration="15419000" />
       <workItem from="1729777107027" duration="4162000" />
-      <workItem from="1729910919451" duration="7371000" />
+      <workItem from="1729910919451" duration="8515000" />
+      <workItem from="1731063649030" duration="105000" />
+      <workItem from="1731298164625" duration="4264000" />
     </task>
     <servers />
   </component>
