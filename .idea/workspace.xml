@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c7b0f35e-f530-4496-bdd8-db9d10ccca04" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/components/CoreConcepts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/02-Essentials-Deep-Dive/01-project-final/src/components/CoreConcepts.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;npm.React Buddy Preview.executor&quot;: &quot;Run&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;E:\\webstorm\\08-Advanced-State-Management-with-Context-useReducer\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -118,7 +117,10 @@
       <workItem from="1729777107027" duration="4162000" />
       <workItem from="1729910919451" duration="8515000" />
       <workItem from="1731063649030" duration="105000" />
-      <workItem from="1731298164625" duration="4264000" />
+      <workItem from="1731298164625" duration="5820000" />
+      <workItem from="1731427413168" duration="4279000" />
+      <workItem from="1732187857532" duration="597000" />
+      <workItem from="1732188555004" duration="58000" />
     </task>
     <servers />
   </component>
