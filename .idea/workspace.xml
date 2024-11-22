@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09-Working-with-useEffect/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/09-Working-with-useEffect/src/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09-Working-with-useEffect/src/components/DeleteConfirmation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/09-Working-with-useEffect/src/components/DeleteConfirmation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Working-with-useEffect/src/components/Modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/09-Working-with-useEffect/src/components/Modal.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
