@@ -1,5 +1,6 @@
 import QUESTIONS from '../question.js';
 import { useState } from "react";
+import QuestionProgress from "./QuestionProgress.jsx";
 import quizComplete from '../assets/quiz-complete.png'
 
 export default function Quiz () {
@@ -30,6 +31,7 @@ export default function Quiz () {
     return(
         <div id='quiz'>
             <div id='question'>
+                <QuestionProgress timer={10000} onTimeOut={() => handleSelectAnswer(null)}/>
                 <h2>{QUESTIONS[activeQuestionIndex].text}</h2>
                 <ul id='answers'>
                     {shuffledAnswer.map((answer) => (
