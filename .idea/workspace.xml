@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c7b0f35e-f530-4496-bdd8-db9d10ccca04" name="Changes" comment="code has been updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-Working-with-useEffect/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/09-Working-with-useEffect/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-Working-with-useEffect/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/09-Working-with-useEffect/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-Working-with-useEffect/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/09-Working-with-useEffect/src/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Building-a-Quiz-App/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/10-Building-a-Quiz-App/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-Building-a-Quiz-App/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/10-Building-a-Quiz-App/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Building-a-Quiz-App/src/components/Quiz.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/10-Building-a-Quiz-App/src/components/Quiz.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
