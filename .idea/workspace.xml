@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c7b0f35e-f530-4496-bdd8-db9d10ccca04" name="Changes" comment="code has been updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Working-with-useEffect/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/09-Working-with-useEffect/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Working-with-useEffect/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/09-Working-with-useEffect/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Working-with-useEffect/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/09-Working-with-useEffect/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Building-a-Quiz-App/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/10-Building-a-Quiz-App/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Building-a-Quiz-App/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/10-Building-a-Quiz-App/src/components/Header.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +83,9 @@
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\SRIRAM~1\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="9106f7f2-6949-46da-b2d5-88036fab687e" reportId="webstorm/qodana/2024-10-14" />
     </option>
+  </component>
+  <component name="ReactBuddySettings">
+    <option name="ignoredByVcs" value="true" />
   </component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
