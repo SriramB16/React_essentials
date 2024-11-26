@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function ConfigureCounter() {
+export default function ConfigureCounter({ onset }) {
   const [enteredNumber, setEnteredNumber] = useState(0);
 
   function handleChange(event) {
@@ -8,7 +8,7 @@ export default function ConfigureCounter() {
   }
 
   function handleSetClick() {
-    setChosenCount(enteredNumber);
+
     setEnteredNumber(0);
   }
   return (
