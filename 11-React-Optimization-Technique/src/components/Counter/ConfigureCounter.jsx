@@ -8,7 +8,7 @@ export default function ConfigureCounter({ onset }) {
   }
 
   function handleSetClick() {
-
+    onset(enteredNumber)
     setEnteredNumber(0);
   }
   return (
