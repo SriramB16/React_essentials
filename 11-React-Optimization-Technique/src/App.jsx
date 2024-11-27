@@ -4,6 +4,7 @@ import Counter from './components/Counter/Counter.jsx';
 import Header from './components/Header.jsx';
 import { log } from './log.js';
 import ConfigureCounter from "./components/Counter/ConfigureCounter.jsx";
+import CounterHistory from "./components/Counter/CounterHistory.jsx";
 
 function App() {
   log('<App /> rendered');
@@ -19,10 +20,13 @@ function App() {
       <Header />
       <main>
         <ConfigureCounter onset={handleSetCount} />
-        <Counter initialCount={chosenCount} />
+          <Counter initialCount={chosenCount} />
+          <Counter initialCount={0} />
       </main>
     </>
   );
 }
 
 export default App;
+
+
