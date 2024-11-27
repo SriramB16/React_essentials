@@ -1,6 +1,6 @@
 import { useState, useCallback } from 'react';
 
-import QUESTIONS from '../questions.js';
+import QUESTIONS from '../question.js';
 import Question from './Question.jsx';
 import Summary from './Summary.jsx';
 
