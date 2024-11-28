@@ -6,7 +6,7 @@ import DeleteConfirmation from './components/DeleteConfirmation.jsx';
 import logoImg from './assets/logo.png';
 import AvailablePlaces from './components/AvailablePlaces.jsx';
 import { updateUserPlaces } from './http.js';
-import ErrorPage from "./components/ErrorPage.jsx";
+import ErrorPage from './components/ErrorPage.jsx';
 
 function App() {
   const selectedPlace = useRef();
@@ -48,13 +48,29 @@ function App() {
     }
   }
 
-  const handleRemovePlace = useCallback(async function handleRemovePlace() {
-    setUserPlaces((prevPickedPlaces) =>
-        prevPickedPlaces.filter((place) => place.id !== selectedPlace.current.id)
-    );
+  const handleRemovePlace = useCallback(
+      async function handleRemovePlace() {
+        setUserPlaces((prevPickedPlaces) =>
+            prevPickedPlaces.filter(
+                (place) => place.id !== selectedPlace.current.id
+            )
+        );
 
-    setModalIsOpen(false);
-  }, []);
+        try {
+          await updateUserPlaces(
+              userPlaces.filter((place) => place.id !== selectedPlace.current.id)
+          );
+        } catch (error) {
+          setUserPlaces(userPlaces);
+          setErrorUpdatingPlaces({
+            message: error.message || 'Failed to delete place.',
+          });
+        }
+
+        setModalIsOpen(false);
+      },
+      [userPlaces]
+  );
 
   function handleError() {
     setErrorUpdatingPlaces(null);
