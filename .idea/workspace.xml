@@ -7,7 +7,7 @@
     <list default="true" id="c7b0f35e-f530-4496-bdd8-db9d10ccca04" name="Changes" comment="code has been updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/15-Forms-and-User-Inputs/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/15-Forms-and-User-Inputs/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15-Forms-and-User-Inputs/src/components/Signup.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/15-Forms-and-User-Inputs/src/components/Signup.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-Forms-and-User-Inputs/src/components/StateLogin.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/15-Forms-and-User-Inputs/src/components/StateLogin.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,7 @@
       <workItem from="1732677564726" duration="14242000" />
       <workItem from="1732762447683" duration="26019000" />
       <workItem from="1732859881398" duration="8814000" />
-      <workItem from="1732939509147" duration="6241000" />
+      <workItem from="1732939509147" duration="7459000" />
     </task>
     <servers />
   </component>
