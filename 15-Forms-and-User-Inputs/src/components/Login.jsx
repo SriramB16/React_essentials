@@ -43,9 +43,10 @@ export default function Login() {
         </div>
       </div>
 
+
       <p className="form-actions">
         <button className="button button-flat">Reset</button>
-        <button className="button">Login</button>
+        <button className="button" disabled={true}>Login</button>
       </p>
     </form>
   );
