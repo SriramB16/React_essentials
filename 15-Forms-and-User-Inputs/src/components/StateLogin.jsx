@@ -1,81 +1,68 @@
-import { useState } from "react";
+import {useState} from "react";
+import Input from "./Input.jsx";
 
 export default function Login() {
-  const [enteredValue, setEnteredValue] = useState({
-    email: "",
-    password: "",
-  });
+    const [enteredValue, setEnteredValue] = useState({
+        email: "", password: "",
+    });
 
-  const [isEdited, setIsEdited] = useState({
-    email: false,
-    password: false,
-  });
+    const [isEdited, setIsEdited] = useState({
+        email: false, password: false,
+    });
 
-  // const emailIsInvalid =
-  //   enteredValue.email !== "" && !enteredValue.email.includes("@");
+    // const emailIsInvalid =
+    //   enteredValue.email !== "" && !enteredValue.email.includes("@");
 
-  const emailIsInvalid = isEdited.email && !enteredValue.email.includes("@");
+    const emailIsInvalid = isEdited.email && !enteredValue.email.includes("@");
+    const passwordIsInvalid = isEdited.password && enteredValue.password.trim().length < 7;
 
-  function handleInputChange(identifier, value) {
-    setEnteredValue((prevState) => ({
-      ...prevState,
-      [identifier]: value,
-    }));
+    function handleInputChange(identifier, value) {
+        setEnteredValue((prevState) => ({
+            ...prevState, [identifier]: value,
+        }));
 
-    setIsEdited(prevState => ({
-        ...prevState,
-        [identifier]: false,
-    }))
-  }
+        setIsEdited(prevState => ({
+            ...prevState, [identifier]: false,
+        }))
+    }
 
-  function handleInputBlur(identifier) {
-    setIsEdited((prevState) => ({
-      ...prevState,
-      [identifier]: true,
-    }));
-  }
+    function handleInputBlur(identifier) {
+        setIsEdited((prevState) => ({
+            ...prevState, [identifier]: true,
+        }));
+    }
 
-  function handleSubmit(e) {
-    e.preventDefault();
-    console.log(enteredValue);
-  }
-  return (
-    <form onSubmit={handleSubmit}>
-      <h2>Login</h2>
+    function handleSubmit(e) {
+        e.preventDefault();
+        console.log(enteredValue);
+    }
 
-      <div className="control-row">
-        <div className="control no-margin">
-          <label htmlFor="email">Email</label>
-          <input
-            id="email"
-            type="email"
-            name="email"
-            onBlur={() => handleInputBlur("email")}
-            onChange={(e) => handleInputChange("email", e.target.value)}
-            value={enteredValue.email}
-          />
-          <div className="control-error">
-            {emailIsInvalid && <p>Please enter a valid Email</p>}
-          </div>
-        </div>
+    function handleReset() {
+        setEnteredValue({
+            email: "", password: "",
+        });
+    }
 
-        <div className="control no-margin">
-          <label htmlFor="password">Password</label>
-          <input
-            id="password"
-            type="password"
-            name="password"
-            onBlur={() => handleInputBlur("password")}
-            onChange={(e) => handleInputChange("password", e.target.value)}
-            value={enteredValue.password}
-          />
-        </div>
-      </div>
+    return (<form onSubmit={handleSubmit}>
+            <h2>Login</h2>
 
-      <p className="form-actions">
-        <button className="button button-flat">Reset</button>
-        <button className="button">Login</button>
-      </p>
-    </form>
-  );
+            <div className="control-row">
+                <Input label='Email' id='email' type="email"
+                       value={enteredValue.email}
+                       name="email"  onBlur={() => handleInputBlur("email")}
+                       onChange={(e) => handleInputChange("email", e.target.value)}
+                       error={emailIsInvalid && 'Please enter a valid email'}/>
+
+                <Input label='Password' id='password' type="password"
+                       value={enteredValue.password}
+                       name="email"  onBlur={() => handleInputBlur("password")}
+                       onChange={(e) => handleInputChange("password", e.target.value)}
+                       error={passwordIsInvalid && 'Please enter a valid password'}/>
+            </div>
+
+            <p className="form-actions">
+                <button className="button button-flat" onClick={handleReset}>Reset</button>
+                <button className="button">Login</button>
+            </p>
+        </form>);
 }
