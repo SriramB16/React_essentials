@@ -38,7 +38,7 @@ export default function Signup() {
             errors.push("You must agree to the terms and conditions");
         }
 
-        if(!isNotEmpty(acquisition)) {
+        if(acquisition.length === 0) {
             errors.push("You must select at least one acquisition channel");
         }
 
