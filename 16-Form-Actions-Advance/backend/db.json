@@ -1,0 +1,32 @@
+{
+  "opinions": [
+    {
+      "id": 1736310055544,
+      "votes": 3,
+      "userName": "dhanish",
+      "title": "need to learn react",
+      "body": "need to learn react fully"
+    },
+    {
+      "id": 1736267116109,
+      "votes": 0,
+      "userName": "sriram",
+      "title": "React is great!!",
+      "body": "This is the great tool for frontend!!!!"
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
